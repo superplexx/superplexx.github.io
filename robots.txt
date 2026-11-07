@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://superplexx.github.io
+
+Sitemap: https://superplexx.github.io/sitemap.xml
